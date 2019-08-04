@@ -1,0 +1,38 @@
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\bin\Debug\ChatMulty.exe.config
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\bin\Debug\ChatMulty.exe
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\bin\Debug\ChatMulty.pdb
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\ChatMulty.csprojResolveAssemblyReference.cache
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\MainWindow.g.cs
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\App.g.cs
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\ChatMulty_MarkupCompile.cache
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\ChatMulty_MarkupCompile.lref
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\MainWindow.baml
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\ChatMulty.g.resources
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\ChatMulty.Properties.Resources.resources
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\ChatMulty.csproj.GenerateResource.Cache
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\ChatMulty.csproj.CoreCompileInputs.cache
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\ChatMulty.exe
+c:\users\gran_mv08\source\repos\ChatMulty\ChatMulty\obj\Debug\ChatMulty.pdb
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\ChatMulty.csprojAssemblyReference.cache
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\MainWindow.g.cs
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\App.g.cs
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\ChatMulty_MarkupCompile.cache
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\ChatMulty_MarkupCompile.lref
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\ChatMulty.exe
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\ChatMulty.pdb
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\bin\Debug\ChatMulty.exe.config
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\bin\Debug\ChatMulty.exe
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\bin\Debug\ChatMulty.pdb
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\bin\Debug\MaterialDesignColors.dll
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\bin\Debug\MaterialDesignColors.pdb
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\App.baml
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\MainWindow.baml
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\ChatMulty.g.resources
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\ChatMulty.Properties.Resources.resources
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\ChatMulty.csproj.GenerateResource.cache
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\ChatMulty.csproj.CoreCompileInputs.cache
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\ChatMulty.csproj.CopyComplete
+D:\Флэшка\Setting Programming\20.05.19\ChatMulty\ChatMulty\obj\Debug\GeneratedInternalTypeHelper.g.cs
